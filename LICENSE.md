@@ -1,0 +1,1 @@
+Copyright (c) 2015-2020 Bernardo Paulli, Inc. https://github.com/bpaulli
